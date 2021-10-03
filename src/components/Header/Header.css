@@ -1,0 +1,28 @@
+.img-container{
+    text-align: center;
+}
+.img-container img{
+    height: 80px;
+}
+.navbar ul{
+    background: rgb(12, 12, 12);
+    display: flex;
+    align-items: center;
+    margin-bottom: 0;
+}
+.navbar ul {
+    line-height: 42px;
+}
+.navbar ul a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    margin-left: 20px;
+    padding: 10px;
+}
+.navbar ul a:hover{
+    background: rgba(243, 239, 239, 0.842);
+}
+
+
+
